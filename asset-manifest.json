@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BreakingBad/static/css/main.c0514549.css",
+    "main.js": "/BreakingBad/static/js/main.9d76293e.js",
+    "static/media/logo.png": "/BreakingBad/static/media/logo.457b9261ffaa2288ab47.png",
+    "index.html": "/BreakingBad/index.html",
+    "main.c0514549.css.map": "/BreakingBad/static/css/main.c0514549.css.map",
+    "main.9d76293e.js.map": "/BreakingBad/static/js/main.9d76293e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0514549.css",
+    "static/js/main.9d76293e.js"
+  ]
+}
